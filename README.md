@@ -12,10 +12,8 @@ Focus     : Web Development | VAPT | Linux
 Hobbies   : Anime • Gaming • DC
 Pronouns  : He/Him
 ```
-
+## About ME
 <img align="right" src="https://raw.githubusercontent.com/ssubaz/ssubaz/refs/heads/main/image.jpeg" width="270" alt="Urahara Kisuke"/>
-
-## About Me
 
 - Full Stack Developer with an interest in Cybersecurity.
 - Passionate about Linux, Automation, and AI.
@@ -26,6 +24,9 @@ Pronouns  : He/Him
   - Hydra
   - Next.js
 - Enjoy building practical tools and exploring security research.
+
+<br>
+
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
