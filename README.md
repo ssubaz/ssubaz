@@ -13,7 +13,7 @@ Hobbies   : Anime • Gaming • DC
 Pronouns  : He/Him
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/ssubaz/ssubaz/refs/heads/main/image.jpg" width="270" alt="Urahara Kisuke"/>
+<img align="right" src="https://raw.githubusercontent.com/ssubaz/ssubaz/refs/heads/main/image.jpeg" width="270" alt="Urahara Kisuke"/>
 
 ## About Me
 
