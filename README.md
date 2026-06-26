@@ -45,21 +45,8 @@ Pronouns  : He/Him
 <br>
 
 <p align="left">
-  <!-- <a href="https://twitter.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" style="margin-right:20px;" alt="Twitter" width="40" height="40">
-  </a> -->
-  <a href="https://linkedin.com/in/ssubaz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="margin-right:20px;" alt="LinkedIn" width="40" height="40">
-  </a>
-  <!-- <a href="https://fb.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="margin-right:20px;" alt="Facebook" width="40" height="40">
-  </a> -->
-  <a href="mailto:ssubaz@zohomail.in" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin-right:20px;" alt="Email" width="40" height="40">
-  </a>
-  <!-- <a href="https://instagram.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin-right:20px;" alt="Instagram" width="40" height="40">
-  </a> -->
+  <a href="https://linkedin.com/in/ssubaz" target="_blank">LinkedIn</a> |
+  <a href="mailto:ssubaz@zohomail.in" target="_blank">E-Mail</a>
 </p>
 
 <br>
