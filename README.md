@@ -1,20 +1,46 @@
-```zsh
-> fastfetch
+```console
+$ whoami
+```
+```console
+Name      : Subash
+Username  : ssubaz
+Role      : Full Stack Developer • Security Enthusiast
+Location  : Tamil Nadu, India
+Languages : Java • Python • C • JavaScript • PHP
+Frameworks: Flask • React • Next.js
+Focus     : Web Development | VAPT | Linux
+Hobbies   : Anime • Gaming • DC
+Pronouns  : He/Him
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ssubaz/ssubaz/refs/heads/main/urahara.jpeg" alt="Urahara Kisuke 😛" width="280" /> 
+<img align="right" src="https://raw.githubusercontent.com/ssubaz/ssubaz/refs/heads/main/image.jpg" width="270" alt="Urahara Kisuke"/>
 
-```csharp
-ssubaz@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.9.1
-Pronouns:   He/Him
-Location:   TamilNadu, India
-Frameworks: Flask,React
-Languages:  Java, Python, C, JavaScript, 
-            HTML/CSS, SQL,PHP
-Learning:   BurpSuite, Metasploit, Hydra,
-            VAPT, Next.Js
-Hobbies:    Surfing AI, Gaming
-```
+## About Me
+
+- Full Stack Developer with an interest in Cybersecurity.
+- Passionate about Linux, Automation, and AI.
+- Currently learning:
+  - VAPT
+  - Burp Suite
+  - Metasploit
+  - Hydra
+  - Next.js
+- Enjoy building practical tools and exploring security research.
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+
+
+<p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssubaz&theme=radical&hide_border=true"/>
+
+</p>
