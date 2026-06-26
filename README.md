@@ -1,6 +1,8 @@
 ```console
 $ whoami
 ```
+<br>
+
 ```console
 Name      : Subash
 Username  : ssubaz
@@ -9,23 +11,9 @@ Location  : Tamil Nadu, India
 Languages : Java • Python • C • JavaScript • PHP
 Frameworks: Flask • React • Next.js
 Focus     : Web Development | VAPT | Linux
-Hobbies   : Anime • Gaming • DC
+Hobbies   : Anime • Gaming • Movies
 Pronouns  : He/Him
 ```
-## About ME
-<img align="right" src="https://raw.githubusercontent.com/ssubaz/ssubaz/refs/heads/main/image.jpeg" width="270" alt="Urahara Kisuke"/>
-
-- Full Stack Developer with an interest in Cybersecurity.
-- Passionate about Linux, Automation, and AI.
-- Currently learning:
-  - VAPT
-  - Burp Suite
-  - Metasploit
-  - Hydra
-  - Next.js
-- Enjoy building practical tools and exploring security research.
-
-<br>
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,7 +29,44 @@ Pronouns  : He/Him
 
 
 
+## About ME
+<img align="right" src="https://raw.githubusercontent.com/ssubaz/ssubaz/refs/heads/main/image.jpeg" width="270" alt="Urahara Kisuke"/>
+
+- Full Stack Developer with an interest in Cybersecurity.
+- Passionate about Linux, Automation, and AI.
+- Currently learning:
+  - VAPT
+  - Burp Suite
+  - Metasploit
+  - Hydra
+  - Next.js
+- Enjoy building practical tools and exploring security research.
+<br>
+<br>
+
+<p align="left">
+  <!-- <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" style="margin-right:20px;" alt="Twitter" width="40" height="40">
+  </a> -->
+  <a href="https://linkedin.com/in/ssubaz" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="margin-right:20px;" alt="LinkedIn" width="40" height="40">
+  </a>
+  <!-- <a href="https://fb.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" style="margin-right:20px;" alt="Facebook" width="40" height="40">
+  </a> -->
+  <a href="mailto:ssubaz@zohomail.in" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="margin-right:20px;" alt="Email" width="40" height="40">
+  </a>
+  <!-- <a href="https://instagram.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="margin-right:20px;" alt="Instagram" width="40" height="40">
+  </a> -->
+</p>
+
+<br>
+
+
 <p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssubaz&theme=radical&hide_border=true"/>
-
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ssubaz&label=Profile%20views&color=0e75b6&style=flat" alt="ssubaz" /> </p>
+
